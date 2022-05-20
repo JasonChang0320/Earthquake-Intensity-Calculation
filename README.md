@@ -1,1 +1,1 @@
-# Earthquake-Intensity-Calculation
+# Taiwan-Earthquake-Intensity-Calculation
