@@ -1,0 +1,10 @@
+
+#ignore data
+20180206_Hualien Earthquake
+
+#ignore result
+Result
+
+#ignore report
+*.pdf
+*.pptx
