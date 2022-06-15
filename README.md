@@ -1,5 +1,5 @@
 # Taiwan-Earthquake-Intensity-Calculation
-  According to CWB new earthqauke intensity workflow, we use Hualian earthquake on Frebruary 2018 as an example to calulate earthquake record PGA (peak ground acceleration) (gal) and PGV (peak ground velocity) to classify to intensity. The workflow shows below.
+  According to CWB new earthqauke intensity workflow, we use Hualien earthquake on Frebruary 2018 as an example to calulate earthquake record PGA (peak ground acceleration) (gal) and PGV (peak ground velocity) to classify to intensity. The workflow shows below.
   
  ![image](https://github.com/JasonChang0320/Taiwan-Earthquake-Intensity-Calculation/blob/main/markdown%20image/CWB%20earthquake%20intensity.jpg)
   
@@ -14,7 +14,7 @@
   
   **Fig** folder is some figure output from **plot&statistic.py**
   
-  ## 2018 0206 Hualian earthquake Map
+  ## 2018 0206 Hualien earthquake Map
   
    ![image](https://github.com/JasonChang0320/Taiwan-Earthquake-Intensity-Calculation/blob/main/Fig/intensity.png)
 
