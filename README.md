@@ -8,7 +8,7 @@
   
   **error_filename.xlsx** recorded the broken waveform downloaded from CWB.
   
-  **intensity_result** recorded each stations intensity and PGA PGV.
+  **intensity_result** recorded each stations intensity,PGA and PGV.
   
   **plot&statistic.py** is to visualize the intensity result on Taiwan map and anlysis.
   
