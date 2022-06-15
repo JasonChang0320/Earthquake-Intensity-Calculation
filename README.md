@@ -18,7 +18,7 @@
   
    ![image](https://github.com/JasonChang0320/Taiwan-Earthquake-Intensity-Calculation/blob/main/Fig/intensity.png)
    
-   ### Contact
+   ## Contact
    
    Any problem or discussion please contact: jason032089@gmail.com
 
