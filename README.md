@@ -14,7 +14,7 @@
   
   **Fig** folder is some figure output from **plot&statistic.py**
   
-  ## 2018 0206 Hualien earthquake Map
+  ## 2018 02/06 Hualien earthquake Map
   
    ![image](https://github.com/JasonChang0320/Taiwan-Earthquake-Intensity-Calculation/blob/main/Fig/intensity.png)
 
