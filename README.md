@@ -15,5 +15,7 @@
   **Fig** folder is some figure output from **plot&statistic.py**
   
   ## Result Map
-    ![image]([https://github.com/JasonChang0320/Taiwan-Earthquake-Intensity-Calculation/blob/main/Fig/intensity.png](https://github.com/JasonChang0320/Taiwan-Earthquake-Intensity-Calculation/blob/main/Fig/intensity.png))
+  
+    ![image](https://github.com/JasonChang0320/Taiwan-Earthquake-Intensity-Calculation/blob/main/Fig/intensity.png)
+    ![image](https://github.com/JasonChang0320/Taiwan-Earthquake-Intensity-Calculation/blob/main/markdown%20image/CWB%20earthquake%20intensity.jpg)
   
